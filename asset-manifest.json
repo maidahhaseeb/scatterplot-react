@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/scatterplot-react/static/css/main.1e8453c1.css",
-    "main.js": "/scatterplot-react/static/js/main.426d0600.js",
+    "main.js": "/scatterplot-react/static/js/main.a1f8b34c.js",
     "static/js/453.64105b0e.chunk.js": "/scatterplot-react/static/js/453.64105b0e.chunk.js",
-    "static/media/tips.csv": "/scatterplot-react/static/media/tips.43007c7e472255eef549.csv",
+    "static/media/tips.csv": "/scatterplot-react/static/media/tips.8e44a6435d7436bcf763.csv",
     "index.html": "/scatterplot-react/index.html",
     "main.1e8453c1.css.map": "/scatterplot-react/static/css/main.1e8453c1.css.map",
-    "main.426d0600.js.map": "/scatterplot-react/static/js/main.426d0600.js.map",
+    "main.a1f8b34c.js.map": "/scatterplot-react/static/js/main.a1f8b34c.js.map",
     "453.64105b0e.chunk.js.map": "/scatterplot-react/static/js/453.64105b0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e8453c1.css",
-    "static/js/main.426d0600.js"
+    "static/js/main.a1f8b34c.js"
   ]
 }
